@@ -1,8 +1,9 @@
 function App() {
+  const username = 'Naren';
 
   return (
     <>
-      <h1>Vite + React | Naren</h1>
+      <h1>Vite + React | {username}</h1>
     </>
   )
 }
