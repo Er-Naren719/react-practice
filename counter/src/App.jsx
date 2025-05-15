@@ -8,7 +8,10 @@ function App() {
       alert('Counter cannot exceed 20');
       return;
     }
-    setCounter(counter + 1);
+    setCounter(prevCounter => prevCounter + 1);
+    setCounter(prevCounter => prevCounter + 1);
+    setCounter(prevCounter => prevCounter + 1);
+    setCounter(prevCounter => prevCounter + 1);
   }
 
   const decrementHandler = () => {
