@@ -1,3 +1,3 @@
 # react-practice
 
-Various react project to understand, learn and practice different different react concepts and interview tricks
+Various react projects to understand, learn and practice various react concepts and interview tricks
