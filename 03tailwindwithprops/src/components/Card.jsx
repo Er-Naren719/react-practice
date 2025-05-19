@@ -1,7 +1,6 @@
 import React from "react"
 
 const Card = ({ username }) => {
-  // console.log("props object:", props);
 
   return (
     <div className="max-w-xs rounded-md shadow-md bg-black text-gray-100 mx-auto mt-10">

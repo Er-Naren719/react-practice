@@ -13,7 +13,6 @@ const Github = () => {
   //     })
   //     .then((data) => {
   //       setUserData(data);
-  //       console.log(data);
   //     })
   // }, []);
 
